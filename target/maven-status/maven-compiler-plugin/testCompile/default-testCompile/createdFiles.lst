@@ -1,0 +1,8 @@
+StepDefinitionsForOrangeHRM\Regression.class
+StepDefinitionsForOrangeHRM\OrangeHRmStepDefinitions.class
+StepDefinitionsForOrangeHRM\Smoke.class
+StepDefinitionsForOrangeHRM\TepDefinitions2.class
+pom\pages\MyLeavesPage_OrangeHRM.class
+StepDefinitionsForOrangeHRM\TestRunner.class
+pom\pages\DashboardPage_OrangeHRM.class
+pom\pages\LoginPage_OrangeHRM.class
